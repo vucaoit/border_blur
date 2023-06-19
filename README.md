@@ -20,5 +20,5 @@ Container(
 
 ## demo
 
-<img src="demo.png" alt="border blur" width="500" style="object-fit: contain;">
+<img src="https://github.com/vucaoit/border_blur/blob/main/image/demo.png)https://github.com/vucaoit/border_blur/blob/main/image/demo.png" alt="border blur" width="500" style="object-fit: contain;">
 
